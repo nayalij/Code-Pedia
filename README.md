@@ -1,1 +1,1 @@
-# Code-Pedia
+# CodePedia
